@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sotuken/static/css/main.b271eb0e.chunk.css",
+    "main.js": "/sotuken/static/js/main.46e7fc1e.chunk.js",
+    "main.js.map": "/sotuken/static/js/main.46e7fc1e.chunk.js.map",
+    "runtime-main.js": "/sotuken/static/js/runtime-main.c09a1c9c.js",
+    "runtime-main.js.map": "/sotuken/static/js/runtime-main.c09a1c9c.js.map",
+    "static/js/2.26a733d2.chunk.js": "/sotuken/static/js/2.26a733d2.chunk.js",
+    "static/js/2.26a733d2.chunk.js.map": "/sotuken/static/js/2.26a733d2.chunk.js.map",
+    "static/js/3.774b3efb.chunk.js": "/sotuken/static/js/3.774b3efb.chunk.js",
+    "static/js/3.774b3efb.chunk.js.map": "/sotuken/static/js/3.774b3efb.chunk.js.map",
+    "index.html": "/sotuken/index.html",
+    "static/css/main.b271eb0e.chunk.css.map": "/sotuken/static/css/main.b271eb0e.chunk.css.map",
+    "static/js/2.26a733d2.chunk.js.LICENSE.txt": "/sotuken/static/js/2.26a733d2.chunk.js.LICENSE.txt",
+    "static/media/corokke.8f917e98.png": "/sotuken/static/media/corokke.8f917e98.png",
+    "static/media/karaage.323d0f44.png": "/sotuken/static/media/karaage.323d0f44.png",
+    "static/media/tikin.bd55a365.png": "/sotuken/static/media/tikin.bd55a365.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c09a1c9c.js",
+    "static/js/2.26a733d2.chunk.js",
+    "static/css/main.b271eb0e.chunk.css",
+    "static/js/main.46e7fc1e.chunk.js"
+  ]
+}
