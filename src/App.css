@@ -1,0 +1,133 @@
+body {
+  background-color: #9ff89f;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+ 
+  
+}
+
+.containerCol {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+
+.selectButton a {
+  display: block;
+  width: 300px;
+}
+
+.selectButton button {
+  margin-top: 30px;
+}
+
+.imageSize {
+  width: 80px;
+  height: 80px;
+}
+
+.modoruketteibutton {
+  display: flex;
+  justify-content:  space-between;
+  width: 300px;
+  margin: 70px auto 20px;
+}
+
+.buttonSize {
+  width: 150px;
+  margin-right: 10px;
+}
+
+.kettei {
+  width: 300px;
+  margin: 70px auto 20px;
+  text-align: right;
+}
+
+.kakuningazou {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100px;
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  border: double 5px #28a0f0;
+  background-color: #ffffff;
+}
+
+
+.ketteidezain {
+  background-color: rgb(4, 0, 255);
+  width: 100px;
+  height: 60px;
+  
+}
+
+.ketteidezain a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.modorudezain {
+  background-color: #32b16c;
+  width: 100px;
+  height: 60px;
+}
+
+.modorudezain a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.midasi {
+  text-align: center;
+  padding: 0.2em 0.5em;
+  margin: 2px;
+  background: #d6ebff;
+  box-shadow: 0px 0px 0px 10px #d6ebff;
+  border: dashed 2px white;
+}
+
+.namae {
+  font-size: 20px;
+  margin: 0px;
+}
+
+.midasi2 {
+  margin: 20px;
+}
+
+.buttonpurasu {
+  margin-right: 30px;
+  width: 40px;
+  height: 40px;
+  background-color:  rgb(4, 226, 255);
+  font-size: 30px;
+}
+
+.buttonmainasu {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(4, 226, 255);
+  font-size: 30px;
+}
+
+.suujisize {
+  font-size: 20px;
+  margin: 5px 0 10px;
+}
+
+.midasi3 {
+  text-align: center;
+}
